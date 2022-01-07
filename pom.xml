@@ -14,7 +14,7 @@
     </modules>
 
     <properties>
-        <protobuf.java.version>2.5.0</protobuf.java.version>
+        <protobuf.java.version>3.16.1</protobuf.java.version>
         <protobuf.java.format.version>1.2</protobuf.java.format.version>
     </properties>
 
